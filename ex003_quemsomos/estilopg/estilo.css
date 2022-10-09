@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/roboto/Roboto-Bold.ttf);
+}
+
+/*@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap);*/
+
+* {
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 16px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: #777;
+    background-repeat: no-repeat;
+}
